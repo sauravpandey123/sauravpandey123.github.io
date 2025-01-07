@@ -10,7 +10,7 @@
 
 
 .img-container {
-  max-height: 30vh; /* Set max-height to 20% of the viewport height */
+  max-height: 25vh; /* Set max-height to 20% of the viewport height */
   width: auto; /* Maintain aspect ratio by allowing width to adjust */
   display: block; /* Ensure predictable alignment */
   margin-left: auto; /* Push the image to the right */
