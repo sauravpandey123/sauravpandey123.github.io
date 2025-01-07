@@ -1,0 +1,118 @@
+
+  a {
+    text-decoration: none !important;
+    color: #0073e6; /* Optional: Customize link color */
+  }
+
+/*
+  a:hover {
+    text-decoration: underline !important; /* Adds underline on hover */
+
+
+.img-container {
+  max-height: 25vh; /* Set max-height to 20% of the viewport height */
+  width: auto; /* Maintain aspect ratio by allowing width to adjust */
+  display: block; /* Ensure predictable alignment */
+  margin-left: auto; /* Push the image to the right */
+  margin-right: 0; /* Ensure it's aligned to the right */
+  border-radius: 4px; /* Optional: Add rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Add subtle shadow */
+}
+
+
+hr{
+  border: none; 
+  height: 1px;
+  background: #ccc;
+  box-shadow: 0 3px 3px -2px gray;
+  margin: 30px 0;
+}
+  
+
+table {
+  border-collapse: collapse;
+  border: none;
+  width: 100%;
+}
+
+  td {
+    border: none; /* Removes borders around individual table cells */
+    padding: 15px; /* Adds spacing inside cells */
+    vertical-align: top;  Ensures content is aligned to the top */
+  }
+
+  td img {
+    padding: 0; /* Remove padding for cells containing images */
+  }
+
+
+  tr{
+    display:block;
+    margin-bottom:1px;
+  }
+
+  paper_title{
+    font-size: 1.34em;
+  }
+
+  .abstract {
+  display: none;
+}
+
+
+.abstract-visible {
+  display: block;
+  font-size: 1.1em !important; /* Slightly larger font size for better readability */
+  line-height: 1.6; /* Improve line spacing */
+  color: #333; /* Set a neutral, easy-to-read text color */
+  padding: 10px; /* Add padding around the text */
+  background-color: #f9f9f9; /* Light gray background for contrast */
+  border-left: 4px solid #0073e6; /* Add a colored border for emphasis */
+  border-radius: 5px; /* Round the edges of the background */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  transition: all 0.5s ease; /* Smooth transition for any changes */
+}
+
+
+  .authors, .venue{
+    font-size:1.2em;
+  }
+
+button {
+  background-color: #0073e6; 
+  color: white; 
+  border: none; 
+  padding: 9px 9px; 
+  margin: 5px; 
+  font-size: 13px; 
+  font-weight: 500; 
+  border-radius: 4px; 
+  cursor: pointer; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+  transition: all 0.3s ease; 
+}
+
+button:hover {
+  background-color: #005bb5; 
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2); 
+  transform: translateY(-2px); 
+}
+
+button:active {
+  transform: translateY(1px); 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.big-title {
+    font-size: 2rem; /* Make the title big */
+    font-weight: bold; /* Emphasize the title */
+    text-align: center; /* Center it on the page */
+    margin-top: 10px; /* Add some spacing at the top */
+    color: #333; /* Customize the color */
+  }
+  
+
+  .nav-link:hover {
+    text-decoration: none !important;
+  }
+

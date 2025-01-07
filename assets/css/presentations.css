@@ -1,0 +1,60 @@
+/* Global Styling */
+
+h1 {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically (if needed) */
+    text-align: center; /* Ensure text alignment is centered */
+    font-family: 'Arial', sans-serif; /* Customize font style */
+    font-weight: bold; /* Make it stand out */
+    font-size: clamp(1.8rem, 3vw, 1.8rem); /* Responsive font size */
+    color: #010b15; /* Attractive color */
+    letter-spacing: 2px; /* Add space between letters */
+    background: linear-gradient(90deg, #0a1a28, #5a6b6f); /* Gradient text color */
+    -webkit-background-clip: text; /* Clip the background to text */
+    -webkit-text-fill-color: transparent; /* Make the background visible */
+    margin: 9px auto; /* Add spacing around */
+    padding: 8px; /* Add some internal padding */
+    border-bottom: 2px solid #2e4a51; /* Add a subtle underline effect */
+  }
+  
+  
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.8;
+    box-sizing: border-box;
+  }
+  
+  .work{
+    margin-top:20px;
+  }
+  
+  /* Content Section */
+  .content {
+    line-height: 1.8; /* Adjust spacing between lines */
+  }
+  
+  /* Individual Work */
+  .work strong {
+    font-size: clamp(1.05rem, 2.05vw, 1.05rem); /* Responsive font size for titles */
+  }
+  
+  
+  .date {
+    font-style:italic;
+    color: #646d75; /* Use a distinct color to make the date stand out */
+    font-size: clamp(0.95rem, 1.5vw, 1rem); /* Keep date size responsive */
+  }
+  
+  /* Responsive Adjustments */
+  @media (max-width: 768px) {
+    .content {
+      margin: 10px; /* Reduce margin for smaller screens */
+    }
+  }
+  
+  .footnote{
+    font-size:0.9rem;
+  }
