@@ -4,11 +4,6 @@
     color: #0073e6; /* Optional: Customize link color */
   }
 
-/*
-  a:hover {
-    text-decoration: underline !important; /* Adds underline on hover */
-
-
 .img-container {
   max-height: 25vh; /* Set max-height to 20% of the viewport height */
   width: auto; /* Maintain aspect ratio by allowing width to adjust */
@@ -111,8 +106,3 @@ button:active {
     color: #333; /* Customize the color */
   }
   
-
-  .nav-link:hover {
-    text-decoration: none !important;
-  }
-
