@@ -12,7 +12,7 @@ redirect_from:
 <h1 class="big-title">👋🏼 Hi there, I'm Saurav!</h1> 
 
 <br>
-👨🏻‍💻 I'm a 2nd year PhD student in the [Department of Computer Science](https://cs.unc.edu./) at the **University of North Carolina at Chapel Hill**, fortunate to be advised by [Dr. Harlin Lee](https://harlinlee.github.io/). 
+👨🏻‍💻 I'm a 3rd year PhD student in the [Department of Computer Science](https://cs.unc.edu./) at the **University of North Carolina at Chapel Hill**, fortunate to be advised by [Dr. Harlin Lee](https://harlinlee.github.io/). 
 
 🔬 Broadly, I'm interested in the applications of <strong>machine learning</strong> to tackle challenges in <strong>healthcare</strong> and improve patient care.
 
@@ -25,6 +25,8 @@ redirect_from:
 <hr>
 Latest News
 =====
+- **[Jun 2025]**: Awarded with Google Cloud Research Credits ($1,000)
+- **[May 2025]**: Joined Laboratory for Analaytic Sciences (LAS) for an Applied Data Science internship for Summer 2025
 - **[Oct 2024]**: Research talk at 'UNC CompMed's Research in Progress' program
 - **[Sep 2024]**: One first-author <a href="https://arxiv.org/abs/2411.00718">paper</a> accepted at [IEEE-EMBS BHI 2024](https://bhi.embs.org/2024/)
 - **[May 2024]**: Joined [Cerbrec Inc.](https://cerbrec.com/) as a Deep Learning intern for Summer 2024
@@ -38,7 +40,41 @@ Research
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" id="research">
   <!-- Start of Research Item -->
-  <tr>
+
+<tr>
+    <td width="35%" valign="top">
+      <a href="https://arxiv.org/pdf/2508.08159?">
+        <img src="../images/PedSleepMAE.png" alt="FedLearningFramework" class ="img-container" />
+      </a>
+    </td>
+    <td width="65%" valign="center">
+      <strong>
+        <paper_title>Federated Learning for Epileptic Seizure Prediction Across Heterogeneous EEG Datasets</paper_title>
+      </strong>
+      <br><span class="authors">Cem Ata Baykara, <u> Saurav Raj Pandey </u>, Ali Burak Unal, Harlin Lee, and Mete Akgun</span>.<br>
+       <em class="venue">In Preparation for Submission</em>
+      <div class="paper" id="research_item_fedlearning">
+        <button onclick="window.location.href='https://arxiv.org/pdf/2508.08159?'">PDF</button>
+        <button onclick="window.location.href='https://github.com/sauravpandey123/SeizureFed'">Code</button>
+        <button onclick="toggleAbstract('research_item_abs_fedlearning')">Abstract</button>
+        <p align="justify" id="research_item_abs_fedlearning" class = "abstract">
+         Developing accurate and generalizable epileptic seizure prediction models from electroencephalography (EEG) data across multiple clinical sites remains challenging due to strict patient-privacy regulations and substantial data heterogeneity (non-IID differences). Federated Learning (FL) provides a privacy-preserving framework for collaborative model training, but standard aggregation methods such as Federated Averaging (FedAvg) are vulnerable to dominance by large or skewed datasets in heterogeneous environments.
+
+          In this work, we investigate FL for seizure prediction using a single EEG channel across four diverse public datasets—Siena, CHB-MIT, Helsinki, and NCH—representing adult, pediatric, and neonatal patient populations with varying recording conditions. We implement privacy-preserving global normalization and introduce a Random Subset Aggregation strategy, in which each client trains on a fixed-size random subset of its data per round, ensuring equal and fair contribution during aggregation.
+
+          Our experiments show that locally trained models fail to generalize across sites, and conventional weighted FedAvg produces highly imbalanced performance (e.g., 89.0% accuracy on CHB-MIT but only 50.8% on Helsinki and 50.6% on NCH). In contrast, Random Subset Aggregation substantially boosts performance on under-represented clients—raising accuracy to 81.7% on Helsinki and 68.7% on NCH—and achieves a superior macro-average accuracy of 77.1% and pooled accuracy of 80.0% across all sites.
+
+          These results demonstrate that balanced aggregation approaches can produce more robust, equitable, and generalizable FL seizure-prediction models in real-world, heterogeneous multi-hospital environments while maintaining data privacy.
+        </p>
+      </div>
+    </td>
+  </tr>
+
+
+
+
+
+<tr>
     <td width="35%" valign="top">
       <a href="https://arxiv.org/pdf/2411.00718">
         <img src="../images/PedSleepMAE.png" alt="PedSleepMAE framework" class ="img-container" />
@@ -137,6 +173,8 @@ Research
 
 Selected Honors and Awards
 ====
+- **UNC AI Acceleration Microsoft Azure Cloud Resource Grant ($30,000)** (2025)
+- **Google Cloud Research Credits ($1,000)** (2025)
 - **IEEE BHI'24 NSF Student Travel Award** (2024)
 - **3<sup>rd</sup> Place: Posters and Short Talk, Data Science Week, Purdue University Fort Wayne** (2023)
 - **Phi Beta Kappa Academic Honor Society** (2022-present)
