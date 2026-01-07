@@ -26,7 +26,7 @@ redirect_from:
 Latest News
 =====
 - **[Jun 2025]**: Awarded with Google Cloud Research Credits ($1,000)
-- **[May 2025]**: Joined Laboratory for Analaytic Sciences (LAS) for an Applied Data Science internship for Summer 2025
+- **[May 2025]**: Joined <a href = "https://ncsu-las.org/scads/">Laboratory for Analaytic Sciences (LAS) </a> for an Applied Data Science internship for Summer 2025
 - **[Oct 2024]**: Research talk at 'UNC CompMed's Research in Progress' program
 - **[Sep 2024]**: One first-author <a href="https://arxiv.org/abs/2411.00718">paper</a> accepted at [IEEE-EMBS BHI 2024](https://bhi.embs.org/2024/)
 - **[May 2024]**: Joined [Cerbrec Inc.](https://cerbrec.com/) as a Deep Learning intern for Summer 2024
