@@ -44,7 +44,7 @@ Research
 <tr>
     <td width="35%" valign="top">
       <a href="https://arxiv.org/pdf/2508.08159?">
-        <img src="../images/PedSleepMAE.png" alt="FedLearningFramework" class ="img-container" />
+        <img src="../images/fedsetup.png" alt="FedLearningFramework" class ="img-container" />
       </a>
     </td>
     <td width="65%" valign="center">
@@ -77,7 +77,7 @@ Research
 <tr>
     <td width="35%" valign="top">
       <a href="https://arxiv.org/pdf/2411.00718">
-        <img src="../images/fedsetup.png" alt="PedSleepMAE framework" class ="img-container" />
+        <img src="../images/PedSleepMAE.png" alt="PedSleepMAE framework" class ="img-container" />
       </a>
     </td>
     <td width="65%" valign="center">
