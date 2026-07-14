@@ -467,8 +467,12 @@ Selected Honors and Awards
 
 <hr>
 
-Peer Review
+<div id = "service"></div>
+
+Service
 ====
+
+### Peer Review
 
 Served as a peer reviewer for:
 
