@@ -25,7 +25,7 @@ redirect_from:
 <hr>
 Latest News
 =====
-- **[May 2026]**: Joined <a href="https://www.here.com/">HERE Technologies</a> as a Machine Learning Research Engineer for Summer 2026 Internship
+- **[May 2026]**: Joined <a href="https://www.here.com/">HERE Technologies</a> as a Machine Learning Research Engineer for Summer 2026
 - **[May 2026]**: <a href="https://icml.cc/">ICML 2026</a> Gold Reviewer (Top 25% of all reviewers) 
 - **[Nov 2025]**: UNC AI Acceleration Microsoft Azure Cloud Resource Grant ($30,000)
 - **[Jun 2025]**: Awarded with Google Cloud Research Credits ($1,000)
