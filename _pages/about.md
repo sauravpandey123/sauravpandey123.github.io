@@ -16,7 +16,7 @@ redirect_from:
 
 <br>
 
-👨🏻‍💻 I'm a 3rd year PhD student in the Department of Computer Science at the [University of North Carolina at Chapel Hill](https://www.unc.edu/), fortunate to be advised by [Dr. Harlin Lee](https://harlinlee.github.io/).
+👨🏻‍💻 I'm a 3rd year PhD student in the <strong>Department of Computer Science</strong> at the [University of North Carolina at Chapel Hill](https://www.unc.edu/), fortunate to be advised by [Dr. Harlin Lee](https://harlinlee.github.io/).
 
 🔬 Broadly, I'm interested in the applications of <strong>machine learning</strong> to tackle challenges in <strong>healthcare</strong> and improve patient care.
 
