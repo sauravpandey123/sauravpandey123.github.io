@@ -176,7 +176,7 @@ Research
 
 Selected Honors and Awards
 ====
-- **ICML 2026: Gold Reviewer Recognition (Top 25% of all reviewers)** (2026)
+- **ICML 2026: Gold Reviewer** (2026)
 - **UNC AI Acceleration Microsoft Azure Cloud Resource Grant ($30,000)** (2025)
 - **Google Cloud Research Credits ($1,000)** (2025)
 - **IEEE BHI'24 NSF Student Travel Award** (2024)
@@ -202,9 +202,24 @@ function toggleAbstract(id) {
 
 <hr>
 
-Peer Reviewed Conferences/Journals
+Peer Reviewed Conferences and Journals
 ====
-Served as a peer reviewer for ICML 2026, NeurIPS 2026, NeurIPS 2025, Learning on Graphs (LoG) 2025, IEEE CAMSAP 2025, NeurIPS TS4H 2025
+
+Served as a peer reviewer for ICML 2026, NeurIPS 2026, NeurIPS 2025, Learning on Graphs (LoG) 2025, IEEE CAMSAP 2025, and NeurIPS TS4H 2025.
+
+<script>
+function toggleAbstract(id) {
+  const abstract = document.getElementById(id);
+
+  if (abstract.classList.contains("abstract")) {
+    abstract.classList.remove("abstract");
+    abstract.classList.add("abstract-visible");
+  } else if (abstract.classList.contains("abstract-visible")) {
+    abstract.classList.remove("abstract-visible");
+    abstract.classList.add("abstract");
+  }
+}
+</script>
 
 
 </script>
