@@ -25,6 +25,9 @@ redirect_from:
 <hr>
 Latest News
 =====
+- **[May 2026]**: Joined <a href="https://www.here.com/">HERE Technologies</a> as a Machine Learning Research Engineer for Summer 2026 Internship
+- **[May 2026]**: <a href="https://icml.cc/">ICML 2026</a> Gold Reviewer (Top 25% of all reviewers) 
+- **[Nov 2025]**: UNC AI Acceleration Microsoft Azure Cloud Resource Grant ($30,000)
 - **[Jun 2025]**: Awarded with Google Cloud Research Credits ($1,000)
 - **[May 2025]**: Joined <a href = "https://ncsu-las.org/scads/">Laboratory for Analaytic Sciences (LAS) </a> for an Applied Data Science internship for Summer 2025
 - **[Oct 2024]**: Research talk at 'UNC CompMed's Research in Progress' program
@@ -173,6 +176,7 @@ Research
 
 Selected Honors and Awards
 ====
+- **ICML 2026: Gold Reviewer Recognition (Top 25% of all reviewers)** (2026)
 - **UNC AI Acceleration Microsoft Azure Cloud Resource Grant ($30,000)** (2025)
 - **Google Cloud Research Credits ($1,000)** (2025)
 - **IEEE BHI'24 NSF Student Travel Award** (2024)
@@ -195,6 +199,12 @@ function toggleAbstract(id) {
     abstract.classList.add("abstract");
   }
 }
+
+<hr>
+
+Peer Reviewed Conferences/Journals
+====
+Served as a peer reviewer for ICML 2026, NeurIPS 2026, NeurIPS 2025, Learning on Graphs (LoG) 2025, IEEE CAMSAP 2025, NeurIPS TS4H 2025
 
 
 </script>
