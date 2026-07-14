@@ -199,6 +199,7 @@ function toggleAbstract(id) {
     abstract.classList.add("abstract");
   }
 }
+</script>
 
 <hr>
 
@@ -219,7 +220,6 @@ function toggleAbstract(id) {
     abstract.classList.add("abstract");
   }
 }
-</script>
 
 
 </script>
